@@ -1,9 +1,8 @@
-### Hi , I'm Eli 
+### Hi, I'm Eli
 
- Software engineer, programmer
- Mostly self-taught through online resources
- I enjoy creating projects in WPF, Unity, and WinForms.
- My primary programming languages are C#, XAML, and occasionally C.
- Currently, I’m learning MySQL, JavaScript, and C++.
- 
- 
+Software engineer and programmer  
+Self-taught, learned most of it on the internet  
+Creating projects in WPF, Unity, and WinForms that I like  
+I mainly work with C#, XAML, and sometimes C too  
+Currently learning MySQL, JavaScript, and C++
+
