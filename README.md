@@ -6,11 +6,10 @@ Hi, I'm Eli<br>Software engineer and programmer<br>Self-taught, learned most of 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 # 🖌️ My Portfolio:
-## DrawMuse - Drawing Application
-A powerful drawing application with multiple features like custom brushes, layers, color palettes, and undo/redo functionality.
 
-| ![DrawMuse Interface](https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG) | ![MarsMap Interface](https://github.com/Eli-Zaib/MarsMap/blob/master/ScreenShot/ScreenShot1.PNG) |
+| DrawMuse | Mars Map |
 | --- | --- |
+| ![DrawMuse Interface](https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG) | ![MarsMap Interface](https://github.com/Eli-Zaib/MarsMap/blob/master/ScreenShot/ScreenShot1.PNG) |
 | [View Project DrawMuse](https://github.com/Eli-Zaib/DrawMuse) | [View Project Mars Map](https://github.com/Eli-Zaib/MarsMap) |
 
 # 📊 GitHub Stats:
