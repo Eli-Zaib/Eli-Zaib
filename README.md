@@ -9,13 +9,9 @@ Hi, I'm Eli<br>Software engineer and programmer<br>Self-taught, learned most of 
 ## DrawMuse - Drawing Application
 A powerful drawing application with multiple features like custom brushes, layers, color palettes, and undo/redo functionality.
 
-<img src="https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG" alt="DrawMuse Interface" width="400"/>
-
-[View Project DrawMuse](https://github.com/Eli-Zaib/DrawMuse)
-
-<img src="https://github.com/Eli-Zaib/MarsMap/blob/master/ScreenShot/ScreenShot1.PNG" alt="MarsMap Interface" width="400"/>
-
-[View Project Mars Map](https://github.com/Eli-Zaib/MarsMap)
+| ![DrawMuse Interface](https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG) | ![MarsMap Interface](https://github.com/Eli-Zaib/MarsMap/blob/master/ScreenShot/ScreenShot1.PNG) |
+| --- | --- |
+| [View Project DrawMuse](https://github.com/Eli-Zaib/DrawMuse) | [View Project Mars Map](https://github.com/Eli-Zaib/MarsMap) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eli-Zaib&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -23,6 +19,3 @@ A powerful drawing application with multiple features like custom brushes, layer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Eli-Zaib&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
