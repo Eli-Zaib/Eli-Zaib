@@ -11,7 +11,11 @@ A powerful drawing application with multiple features like custom brushes, layer
 
 <img src="https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG" alt="DrawMuse Interface" width="400"/>
 
-[View Project](https://github.com/Eli-Zaib/DrawMuse)
+[View Project DrawMuse](https://github.com/Eli-Zaib/DrawMuse)
+
+<img src="https://github.com/Eli-Zaib/MarsMap/blob/master/ScreenShot/ScreenShot1.PNG" alt="MarsMap Interface" width="400"/>
+
+[View Project Mars Map](https://github.com/Eli-Zaib/MarsMap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eli-Zaib&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
