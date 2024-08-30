@@ -9,7 +9,7 @@ Hi, I'm Eli<br>Software engineer and programmer<br>Self-taught, learned most of 
 ## DrawMuse - Drawing Application
 A powerful drawing application with multiple features like custom brushes, layers, color palettes, and undo/redo functionality.
 
-![DrawMuse Interface](https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG)
+<img src="https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG" alt="DrawMuse Interface" width="400"/>
 
 [View Project](https://github.com/Eli-Zaib/DrawMuse)
 
