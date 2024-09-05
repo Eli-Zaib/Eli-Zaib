@@ -6,7 +6,7 @@ Hi, I'm Eli<br>Software engineer and programmer<br>Self-taught, learned most of 
 
 | DrawMuse | Mars Map |
 | --- | --- |
-| ![DrawMuse Interface](https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG) | ![MarsMap Interface](https://github.com/Eli-Zaib/MarsMap/blob/master/ScreenShot/ScreenShot1.PNG) |
+| ![DrawMuse Interface](https://github.com/Eli-Zaib/DrawMuse/blob/master/Images/Interface1.PNG) |  |
 | [View Project DrawMuse](https://github.com/Eli-Zaib/DrawMuse) | [View Project Mars Map](https://github.com/Eli-Zaib/MarsMap) |
 
 # 💻 Tech Stack:
